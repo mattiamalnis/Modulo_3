@@ -5,8 +5,8 @@ Este Repositorio esta destinado al módulo 3 de la materia 'Técnicas y herramie
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga Algoritmos en PDF](https://github.com/mattiamalnis/Modulo_2/blob/main/Módulo%202%20-%20Grupo%20JOULIE%20FARADAY.pdf)
+[Descarga Algoritmos en PDF](https://github.com/mattiamalnis/Modulo_3/blob/main/Modulo3_SIMUL8__JoulieFaraday.pdf)
 
-[Descarga el archivo zip. con todo el proyecto](https://github.com/mattiamalnis/Modulo_2/blob/main/Módulo%202%20-%20Grupo%20JOULIE%20FARADAY.zip)
+[Descarga el archivo zip. con todo el proyecto](https://github.com/mattiamalnis/Modulo_3/blob/main/Modulo3_SIMUL8__JoulieFaraday.zip)
 
-[Entrega simulador](https://rpubs.com/Malnis/1425503)
+[Entrega simulador](https://github.com/mattiamalnis/Modulo_3/blob/main/simulacion_azucar_JF.S8)
